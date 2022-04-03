@@ -1,7 +1,7 @@
 # MIAI_RNN_Data_Preparing
 A faster way to preparing data for RNN Model with Times Series Data
 
-Video link:  https://www.miai.vn/2021/03/02/thu-lam-bac-si-chuan-doan-x-quang-cung-yolo-v5-phan-1-2/
+Video link:  https://youtu.be/ppkhed6qQpQ
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
